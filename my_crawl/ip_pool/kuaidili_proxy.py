@@ -80,5 +80,8 @@ class kdl_proxy(object):
 if __name__ == '__main__':
     kdl = kdl_proxy()
     kdl.get_ip_balance()
+    print(666)
+
+
 
 
