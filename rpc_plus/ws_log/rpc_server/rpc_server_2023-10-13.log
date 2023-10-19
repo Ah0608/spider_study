@@ -1,0 +1,298 @@
+2023-10-13 13:26:42,368 - rpc_server - line:106 - INFO - websocket server start in 0.0.0.0:5378
+2023-10-13 13:26:42,646 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.64424479180532 connecting
+2023-10-13 13:26:42,646 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.64424479180532
+2023-10-13 13:29:06,778 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.03542720485039852 connecting
+2023-10-13 13:29:06,778 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.03542720485039852
+2023-10-13 13:31:13,212 - rpc_server - line:106 - INFO - websocket server start in 0.0.0.0:5378
+2023-10-13 13:31:15,417 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.03542720485039852 connecting
+2023-10-13 13:31:15,418 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.03542720485039852
+2023-10-13 13:31:15,433 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.64424479180532 connecting
+2023-10-13 13:31:15,434 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.64424479180532
+2023-10-13 13:33:13,344 - rpc_server - line:77 - INFO - /invoke?group=test&action=browserGetPdf connecting
+2023-10-13 13:33:13,344 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.363631566378827541697175193344.9702
+2023-10-13 13:33:13,348 - rpc_server - line:68 - DEBUG - 0.363631566378827541697175193344.9702 py client over
+2023-10-13 13:33:29,138 - rpc_server - line:77 - INFO - /invoke?group=test&action=browserGet connecting
+2023-10-13 13:33:29,139 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.58600243477240671697175209139.7053
+2023-10-13 13:33:29,142 - rpc_server - line:68 - DEBUG - 0.58600243477240671697175209139.7053 py client over
+2023-10-13 13:33:48,508 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 13:33:48,509 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.8368691026871351697175228509.3994
+2023-10-13 13:34:49,403 - rpc_server - line:68 - DEBUG - 0.8368691026871351697175228509.3994 py client over
+2023-10-13 13:34:54,858 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 13:34:54,858 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.52916119863748921697175294858.6587
+2023-10-13 13:35:08,528 - rpc_server - line:68 - DEBUG - 0.52916119863748921697175294858.6587 py client over
+2023-10-13 13:35:15,507 - rpc_server - line:65 - DEBUG - 0.03542720485039852 js client over
+2023-10-13 13:35:29,058 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.9335432931178005 connecting
+2023-10-13 13:35:29,058 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.9335432931178005
+2023-10-13 13:35:44,608 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 13:35:44,608 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.94842376695474831697175344608.5498
+2023-10-13 13:36:26,179 - rpc_server - line:65 - DEBUG - 0.9335432931178005 js client over
+2023-10-13 13:36:37,427 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.9359477410289234 connecting
+2023-10-13 13:36:37,427 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.9359477410289234
+2023-10-13 13:36:59,399 - rpc_server - line:68 - DEBUG - 0.94842376695474831697175344608.5498 py client over
+2023-10-13 13:37:01,861 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 13:37:01,862 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.338148676689458471697175421862.4207
+2023-10-13 13:37:54,052 - rpc_server - line:68 - DEBUG - 0.338148676689458471697175421862.4207 py client over
+2023-10-13 13:37:57,301 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 13:37:57,302 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.38780177159904651697175477302.3818
+2023-10-13 13:39:24,411 - rpc_server - line:68 - DEBUG - 0.38780177159904651697175477302.3818 py client over
+2023-10-13 13:39:27,774 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 13:39:27,775 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.16688236367252551697175567775.234
+2023-10-13 13:39:54,937 - rpc_server - line:106 - INFO - websocket server start in 0.0.0.0:5378
+2023-10-13 13:39:56,926 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.9359477410289234 connecting
+2023-10-13 13:39:56,926 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.9359477410289234
+2023-10-13 13:39:57,449 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.64424479180532 connecting
+2023-10-13 13:39:57,450 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.64424479180532
+2023-10-13 13:40:30,382 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 13:40:30,382 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.24222961463082461697175630382.7974
+2023-10-13 13:40:58,979 - rpc_server - line:68 - DEBUG - 0.24222961463082461697175630382.7974 py client over
+2023-10-13 13:41:50,148 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 13:41:50,148 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.294672062348733441697175710148.371
+2023-10-13 13:41:50,803 - rpc_server - line:68 - DEBUG - 0.294672062348733441697175710148.371 py client over
+2023-10-13 13:42:27,349 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 13:42:27,349 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.35854925615630541697175747349.4622
+2023-10-13 13:42:43,200 - rpc_server - line:68 - DEBUG - 0.35854925615630541697175747349.4622 py client over
+2023-10-13 13:43:05,880 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 13:43:05,880 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.406289015151044541697175785880.067
+2023-10-13 13:43:06,066 - rpc_server - line:68 - DEBUG - 0.406289015151044541697175785880.067 py client over
+2023-10-13 13:43:24,279 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 13:43:24,279 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.406120304522232241697175804279.7803
+2023-10-13 13:43:34,124 - rpc_server - line:68 - DEBUG - 0.406120304522232241697175804279.7803 py client over
+2023-10-13 13:43:38,419 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 13:43:38,419 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.97668130825025051697175818419.3757
+2023-10-13 13:44:19,129 - rpc_server - line:68 - DEBUG - 0.97668130825025051697175818419.3757 py client over
+2023-10-13 13:44:25,324 - rpc_server - line:65 - DEBUG - 0.9359477410289234 js client over
+2023-10-13 13:44:37,083 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.23882359955807075 connecting
+2023-10-13 13:44:37,083 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.23882359955807075
+2023-10-13 13:45:38,186 - rpc_server - line:106 - INFO - websocket server start in 0.0.0.0:5378
+2023-10-13 13:45:38,416 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.23882359955807075 connecting
+2023-10-13 13:45:45,734 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.23882359955807075
+2023-10-13 13:45:47,822 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.64424479180532 connecting
+2023-10-13 13:45:49,104 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.64424479180532
+2023-10-13 13:46:00,426 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 13:46:08,216 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.0253082523466854341697175968216.955
+2023-10-13 13:46:38,881 - rpc_server - line:68 - DEBUG - 0.0253082523466854341697175968216.955 py client over
+2023-10-13 13:46:49,208 - rpc_server - line:106 - INFO - websocket server start in 0.0.0.0:5378
+2023-10-13 13:46:50,405 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.64424479180532 connecting
+2023-10-13 13:46:50,405 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.64424479180532
+2023-10-13 13:46:50,406 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.23882359955807075 connecting
+2023-10-13 13:46:50,406 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.23882359955807075
+2023-10-13 13:46:54,583 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 13:46:54,584 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.89205048371623621697176014584.5747
+2023-10-13 13:47:14,398 - rpc_server - line:68 - DEBUG - 0.89205048371623621697176014584.5747 py client over
+2023-10-13 13:47:17,860 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 13:47:17,860 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.51547733230482811697176037860.9326
+2023-10-13 13:48:00,263 - rpc_server - line:107 - INFO - websocket server start in 0.0.0.0:5378
+2023-10-13 13:48:00,383 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.23882359955807075 connecting
+2023-10-13 13:48:00,383 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.23882359955807075
+2023-10-13 13:48:00,399 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.64424479180532 connecting
+2023-10-13 13:48:00,399 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.64424479180532
+2023-10-13 13:48:11,569 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 13:48:11,570 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.33430601134607421697176091570.0747
+2023-10-13 13:48:11,782 - rpc_server - line:68 - DEBUG - 0.33430601134607421697176091570.0747 py client over
+2023-10-13 13:48:45,686 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 13:48:45,687 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.7702442594593091697176125686.9316
+2023-10-13 13:49:53,742 - rpc_server - line:68 - DEBUG - 0.7702442594593091697176125686.9316 py client over
+2023-10-13 13:50:25,034 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.4350999833194693 connecting
+2023-10-13 13:50:25,034 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.4350999833194693
+2023-10-13 13:50:36,235 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 13:50:36,235 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.41849042561607521697176236235.8293
+2023-10-13 13:50:36,433 - rpc_server - line:68 - DEBUG - 0.41849042561607521697176236235.8293 py client over
+2023-10-13 13:50:54,730 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 13:50:54,731 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.65997964311958711697176254731.3533
+2023-10-13 13:51:44,266 - rpc_server - line:65 - DEBUG - 0.23882359955807075 js client over
+2023-10-13 13:51:57,034 - rpc_server - line:68 - DEBUG - 0.65997964311958711697176254731.3533 py client over
+2023-10-13 13:52:01,678 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 13:52:01,679 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.78846117247348161697176321679.242
+2023-10-13 13:53:59,451 - rpc_server - line:65 - DEBUG - 0.4350999833194693 js client over
+2023-10-13 13:54:13,621 - rpc_server - line:77 - INFO - /register?group=militaryChrome102&clientId=0.023421672669372562 connecting
+2023-10-13 13:54:13,622 - rpc_server - line:42 - DEBUG - js client connect success, group is militaryChrome102 clientId is 0.023421672669372562
+2023-10-13 13:55:05,795 - rpc_server - line:65 - DEBUG - 0.023421672669372562 js client over
+2023-10-13 13:55:09,816 - rpc_server - line:77 - INFO - /register?group=militaryChrome102&clientId=0.393467850154783 connecting
+2023-10-13 13:55:09,817 - rpc_server - line:42 - DEBUG - js client connect success, group is militaryChrome102 clientId is 0.393467850154783
+2023-10-13 13:55:21,566 - rpc_server - line:68 - DEBUG - 0.78846117247348161697176321679.242 py client over
+2023-10-13 13:55:34,145 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 13:55:34,145 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.69446774658419541697176534145.0898
+2023-10-13 13:55:34,282 - rpc_server - line:68 - DEBUG - 0.69446774658419541697176534145.0898 py client over
+2023-10-13 13:55:45,074 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 13:55:45,075 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.63550997359593721697176545075.4995
+2023-10-13 13:55:45,201 - rpc_server - line:68 - DEBUG - 0.63550997359593721697176545075.4995 py client over
+2023-10-13 13:55:50,203 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 13:55:50,204 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.70267146599562091697176550204.9084
+2023-10-13 13:55:50,337 - rpc_server - line:68 - DEBUG - 0.70267146599562091697176550204.9084 py client over
+2023-10-13 13:57:42,866 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 13:57:42,867 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.69605976746250381697176662867.0452
+2023-10-13 13:57:43,091 - rpc_server - line:68 - DEBUG - 0.69605976746250381697176662867.0452 py client over
+2023-10-13 13:57:45,119 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 13:57:45,121 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.160369627614138531697176665120.5286
+2023-10-13 13:57:45,275 - rpc_server - line:68 - DEBUG - 0.160369627614138531697176665120.5286 py client over
+2023-10-13 13:57:47,303 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 13:57:47,303 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.73751680847633731697176667303.4749
+2023-10-13 13:57:47,462 - rpc_server - line:68 - DEBUG - 0.73751680847633731697176667303.4749 py client over
+2023-10-13 13:57:49,491 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 13:57:49,492 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.18756188329474911697176669492.323
+2023-10-13 13:57:49,640 - rpc_server - line:68 - DEBUG - 0.18756188329474911697176669492.323 py client over
+2023-10-13 13:57:51,662 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 13:57:51,662 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.122554423143010461697176671662.663
+2023-10-13 13:57:51,812 - rpc_server - line:68 - DEBUG - 0.122554423143010461697176671662.663 py client over
+2023-10-13 13:58:26,627 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 13:58:26,628 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.314378206911874461697176706628.4734
+2023-10-13 13:58:26,785 - rpc_server - line:68 - DEBUG - 0.314378206911874461697176706628.4734 py client over
+2023-10-13 13:58:28,826 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 13:58:28,826 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.86373413840220591697176708826.2505
+2023-10-13 13:58:28,974 - rpc_server - line:68 - DEBUG - 0.86373413840220591697176708826.2505 py client over
+2023-10-13 13:58:31,008 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 13:58:31,008 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.14500999965244611697176711008.1423
+2023-10-13 13:58:31,153 - rpc_server - line:68 - DEBUG - 0.14500999965244611697176711008.1423 py client over
+2023-10-13 13:58:33,177 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 13:58:33,178 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.98405438749112941697176713178.8354
+2023-10-13 13:58:33,330 - rpc_server - line:68 - DEBUG - 0.98405438749112941697176713178.8354 py client over
+2023-10-13 13:58:35,350 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 13:58:35,351 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.0546452107385471697176715351.9468
+2023-10-13 13:58:35,499 - rpc_server - line:68 - DEBUG - 0.0546452107385471697176715351.9468 py client over
+2023-10-13 13:59:19,074 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 13:59:19,075 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.106293548091611291697176759075.4978
+2023-10-13 13:59:19,076 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 13:59:19,076 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.42930150028313421697176759076.4958
+2023-10-13 13:59:19,077 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 13:59:19,077 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.71761965652885951697176759077.487
+2023-10-13 13:59:19,078 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 13:59:19,079 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.80217942386058871697176759079.4856
+2023-10-13 13:59:19,089 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 13:59:19,089 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.7416034291607471697176759089.4875
+2023-10-13 13:59:19,237 - rpc_server - line:68 - DEBUG - 0.106293548091611291697176759075.4978 py client over
+2023-10-13 13:59:19,297 - rpc_server - line:68 - DEBUG - 0.42930150028313421697176759076.4958 py client over
+2023-10-13 13:59:19,351 - rpc_server - line:68 - DEBUG - 0.71761965652885951697176759077.487 py client over
+2023-10-13 13:59:19,424 - rpc_server - line:68 - DEBUG - 0.80217942386058871697176759079.4856 py client over
+2023-10-13 13:59:19,439 - rpc_server - line:68 - DEBUG - 0.7416034291607471697176759089.4875 py client over
+2023-10-13 13:59:36,535 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 13:59:36,535 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.415006421671609841697176776535.2566
+2023-10-13 13:59:36,537 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 13:59:36,537 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.85401684024116651697176776537.2683
+2023-10-13 13:59:36,538 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 13:59:36,538 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.93306465543548321697176776538.2952
+2023-10-13 13:59:36,539 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 13:59:36,539 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.30222336895773541697176776539.2686
+2023-10-13 13:59:36,540 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 13:59:36,540 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.0180728121698126021697176776540.2568
+2023-10-13 13:59:36,811 - rpc_server - line:68 - DEBUG - 0.85401684024116651697176776537.2683 py client over
+2023-10-13 13:59:36,813 - rpc_server - line:68 - DEBUG - 0.30222336895773541697176776539.2686 py client over
+2023-10-13 13:59:36,814 - rpc_server - line:68 - DEBUG - 0.93306465543548321697176776538.2952 py client over
+2023-10-13 13:59:36,815 - rpc_server - line:68 - DEBUG - 0.415006421671609841697176776535.2566 py client over
+2023-10-13 13:59:36,831 - rpc_server - line:68 - DEBUG - 0.0180728121698126021697176776540.2568 py client over
+2023-10-13 14:00:11,838 - rpc_server - line:106 - INFO - websocket server start in 0.0.0.0:5378
+2023-10-13 14:00:12,421 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.64424479180532 connecting
+2023-10-13 14:00:12,421 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.64424479180532
+2023-10-13 14:00:14,029 - rpc_server - line:77 - INFO - /register?group=militaryChrome102&clientId=0.393467850154783 connecting
+2023-10-13 14:00:14,029 - rpc_server - line:42 - DEBUG - js client connect success, group is militaryChrome102 clientId is 0.393467850154783
+2023-10-13 14:00:16,963 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 14:00:16,964 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.86569865696431541697176816964.6667
+2023-10-13 14:00:16,965 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 14:00:16,965 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.53494870897811941697176816965.6665
+2023-10-13 14:00:16,966 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 14:00:16,966 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.245598428388935641697176816966.666
+2023-10-13 14:00:16,967 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 14:00:16,967 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.59890176733083411697176816967.669
+2023-10-13 14:00:16,968 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 14:00:16,968 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.98466767895367411697176816968.6995
+2023-10-13 14:00:17,120 - rpc_server - line:68 - DEBUG - 0.86569865696431541697176816964.6667 py client over
+2023-10-13 14:00:17,231 - rpc_server - line:68 - DEBUG - 0.98466767895367411697176816968.6995 py client over
+2023-10-13 14:00:17,232 - rpc_server - line:68 - DEBUG - 0.59890176733083411697176816967.669 py client over
+2023-10-13 14:00:17,233 - rpc_server - line:68 - DEBUG - 0.53494870897811941697176816965.6665 py client over
+2023-10-13 14:00:17,246 - rpc_server - line:68 - DEBUG - 0.245598428388935641697176816966.666 py client over
+2023-10-13 14:00:43,753 - rpc_server - line:65 - DEBUG - 0.393467850154783 js client over
+2023-10-13 14:00:53,879 - rpc_server - line:77 - INFO - /register?group=militaryChrome102&clientId=0.684848779667778 connecting
+2023-10-13 14:00:53,880 - rpc_server - line:42 - DEBUG - js client connect success, group is militaryChrome102 clientId is 0.684848779667778
+2023-10-13 14:01:01,803 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 14:01:01,803 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.96205070488432511697176861803.2656
+2023-10-13 14:01:01,805 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 14:01:01,805 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.092338933833623791697176861805.2659
+2023-10-13 14:01:01,807 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 14:01:01,807 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.83286031165830091697176861807.2698
+2023-10-13 14:01:01,818 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 14:01:01,818 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.61728099382272851697176861818.2673
+2023-10-13 14:01:01,820 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 14:01:01,820 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.91740618642957881697176861820.2688
+2023-10-13 14:01:01,957 - rpc_server - line:68 - DEBUG - 0.96205070488432511697176861803.2656 py client over
+2023-10-13 14:01:02,023 - rpc_server - line:68 - DEBUG - 0.092338933833623791697176861805.2659 py client over
+2023-10-13 14:01:02,037 - rpc_server - line:68 - DEBUG - 0.83286031165830091697176861807.2698 py client over
+2023-10-13 14:01:02,038 - rpc_server - line:68 - DEBUG - 0.61728099382272851697176861818.2673 py client over
+2023-10-13 14:01:02,050 - rpc_server - line:68 - DEBUG - 0.91740618642957881697176861820.2688 py client over
+2023-10-13 14:01:16,897 - rpc_server - line:65 - DEBUG - 0.684848779667778 js client over
+2023-10-13 14:05:47,158 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.8143840594630165 connecting
+2023-10-13 14:05:47,159 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.8143840594630165
+2023-10-13 14:06:03,703 - rpc_server - line:65 - DEBUG - 0.8143840594630165 js client over
+2023-10-13 14:06:48,966 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.18201921415715483 connecting
+2023-10-13 14:06:48,966 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.18201921415715483
+2023-10-13 14:07:10,181 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 14:07:10,182 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.78354619116888751697177230182.8594
+2023-10-13 14:07:10,184 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 14:07:10,185 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.7032435028771551697177230185.845
+2023-10-13 14:07:10,185 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 14:07:10,185 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.0404486361862468341697177230185.845
+2023-10-13 14:07:10,186 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 14:07:10,186 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.78890604475641951697177230186.8445
+2023-10-13 14:07:10,187 - rpc_server - line:77 - INFO - /invoke?group=militaryChrome102&action=requestGet connecting
+2023-10-13 14:07:10,188 - rpc_server - line:51 - DEBUG - py client connect success, group is militaryChrome102 clientId is 0.69047715080628881697177230188.8467
+2023-10-13 14:07:10,188 - rpc_server - line:68 - DEBUG - 0.78354619116888751697177230182.8594 py client over
+2023-10-13 14:07:10,208 - rpc_server - line:68 - DEBUG - 0.7032435028771551697177230185.845 py client over
+2023-10-13 14:07:10,209 - rpc_server - line:68 - DEBUG - 0.0404486361862468341697177230185.845 py client over
+2023-10-13 14:07:10,210 - rpc_server - line:68 - DEBUG - 0.78890604475641951697177230186.8445 py client over
+2023-10-13 14:07:10,211 - rpc_server - line:68 - DEBUG - 0.69047715080628881697177230188.8467 py client over
+2023-10-13 14:07:22,935 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 14:07:22,936 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.66064674500448521697177242936.751
+2023-10-13 14:07:22,937 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 14:07:22,937 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.32226644788251681697177242937.7524
+2023-10-13 14:07:22,938 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 14:07:22,938 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.314995124668779441697177242938.751
+2023-10-13 14:07:22,940 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 14:07:22,940 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.112004627471548051697177242940.7896
+2023-10-13 14:07:22,950 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 14:07:22,950 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.0352217948181395851697177242950.7556
+2023-10-13 14:07:24,003 - rpc_server - line:68 - DEBUG - 0.66064674500448521697177242936.751 py client over
+2023-10-13 14:07:24,457 - rpc_server - line:68 - DEBUG - 0.32226644788251681697177242937.7524 py client over
+2023-10-13 14:07:25,060 - rpc_server - line:68 - DEBUG - 0.0352217948181395851697177242950.7556 py client over
+2023-10-13 14:07:25,064 - rpc_server - line:68 - DEBUG - 0.314995124668779441697177242938.751 py client over
+2023-10-13 14:07:39,621 - rpc_server - line:68 - DEBUG - 0.112004627471548051697177242940.7896 py client over
+2023-10-13 14:07:42,902 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 14:07:42,903 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.96839278356040391697177262902.8564
+2023-10-13 14:07:42,905 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 14:07:42,905 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.284321796775950931697177262905.8572
+2023-10-13 14:07:42,907 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 14:07:42,907 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.160216808616424951697177262907.859
+2023-10-13 14:07:42,908 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 14:07:42,908 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.81714207110966451697177262908.8596
+2023-10-13 14:07:42,909 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 14:07:42,909 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.381761336249192951697177262909.8586
+2023-10-13 14:07:44,053 - rpc_server - line:68 - DEBUG - 0.284321796775950931697177262905.8572 py client over
+2023-10-13 14:07:44,062 - rpc_server - line:68 - DEBUG - 0.81714207110966451697177262908.8596 py client over
+2023-10-13 14:08:00,405 - rpc_server - line:65 - DEBUG - 0.18201921415715483 js client over
+2023-10-13 14:08:01,276 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.12566816925875757 connecting
+2023-10-13 14:08:01,277 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.12566816925875757
+2023-10-13 14:08:22,711 - rpc_server - line:68 - DEBUG - 0.381761336249192951697177262909.8586 py client over
+2023-10-13 14:08:22,712 - rpc_server - line:68 - DEBUG - 0.96839278356040391697177262902.8564 py client over
+2023-10-13 14:08:22,717 - rpc_server - line:68 - DEBUG - 0.160216808616424951697177262907.859 py client over
+2023-10-13 14:08:26,119 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 14:08:26,119 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.80485158426154511697177306119.2136
+2023-10-13 14:09:14,372 - rpc_server - line:68 - DEBUG - 0.80485158426154511697177306119.2136 py client over
+2023-10-13 14:09:23,312 - rpc_server - line:65 - DEBUG - 0.12566816925875757 js client over
+2023-10-13 14:09:24,406 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.42334984494344785 connecting
+2023-10-13 14:09:24,406 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.42334984494344785
+2023-10-13 14:09:36,295 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 14:09:36,296 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.24011020747807111697177376295.692
+2023-10-13 14:10:00,768 - rpc_server - line:106 - INFO - websocket server start in 0.0.0.0:5378
+2023-10-13 14:10:02,383 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.42334984494344785 connecting
+2023-10-13 14:10:02,383 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.42334984494344785
+2023-10-13 14:10:02,385 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.64424479180532 connecting
+2023-10-13 14:10:02,386 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.64424479180532
+2023-10-13 14:10:09,864 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 14:10:09,864 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.6257404474071921697177409864.7332
+2023-10-13 14:10:10,977 - rpc_server - line:68 - DEBUG - 0.6257404474071921697177409864.7332 py client over
+2023-10-13 14:10:32,145 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 14:10:32,146 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.61649780725305791697177432146.7341
+2023-10-13 14:10:37,685 - rpc_server - line:68 - DEBUG - 0.61649780725305791697177432146.7341 py client over
+2023-10-13 14:33:53,847 - rpc_server - line:106 - INFO - websocket server start in 0.0.0.0:5378
+2023-10-13 14:33:58,861 - rpc_server - line:77 - INFO - /register?group=test&clientId=0.7891044163251146 connecting
+2023-10-13 14:33:58,862 - rpc_server - line:42 - DEBUG - js client connect success, group is test clientId is 0.7891044163251146
+2023-10-13 14:34:22,662 - rpc_server - line:77 - INFO - /invoke?group=test&action=requestGet connecting
+2023-10-13 14:34:22,662 - rpc_server - line:51 - DEBUG - py client connect success, group is test clientId is 0.72178632241539831697178862662.5312
+2023-10-13 14:34:22,699 - rpc_server - line:68 - DEBUG - 0.72178632241539831697178862662.5312 py client over
