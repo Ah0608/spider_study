@@ -32,7 +32,7 @@ class ProxyPool():
     def get_proxy_list(self):
         set_key = 'proxies'
         ip_list = self.redis.zrange(set_key, 0, -1)
-        proxty_list = ['http://{}'.format(i.decode()) for i in ip_list]
+        proxty_list = [i.decode() for i in ip_list]
         return proxty_list
 
     def check_proxy(self):
