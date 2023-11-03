@@ -39,6 +39,3 @@ class ProxyPool():
         set_key = 'proxies'
         ips = self.redis.zrange(set_key, 0, -1)
         return ips
-
-
-

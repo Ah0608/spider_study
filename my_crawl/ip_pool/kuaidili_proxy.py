@@ -13,7 +13,7 @@ class kdl_proxy(object):
         self.client = kdl.Client(self.auth)
         self.host = 'localhost'
         self.port = 6379
-        self.db = 1
+        self.db = 2
         self.proxypool = ProxyPool(self.host,self.port,self.db)
 
     def get_order_expire_time(self):
@@ -79,8 +79,8 @@ class kdl_proxy(object):
 
 if __name__ == '__main__':
     kdl = kdl_proxy()
-    kdl.get_ip_balance()
-
+    kdl.get_ips(ip_num=1)
+    # kdl.get_ip_valid_time('49.72.119.150:19713')
 
 
 
